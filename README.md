@@ -1,2 +1,0 @@
-# BigDataFinance
-Trading Algorithms
